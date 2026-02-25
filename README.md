@@ -16,32 +16,11 @@ A minimal decision-making tool that helps you choose between two options using c
 2. **Click "Ask the Oracle"** button
 3. **Get your answer** instantly!
 
-## Installation
+## Try it Live
 
-### Option 1: Use as Static Website (Recommended)
+👉 [Try OpenOracle now](https://manuasdf.github.io/OpenOracle/)
 
-Simply open the `index.html` file in any web browser:
-
-```bash
-double-click index.html
-# OR
-open index.html
-```
-
-### Option 2: Host on GitHub Pages
-
-1. Push this repository to GitHub
-2. Go to Settings → Pages
-3. Select `main` branch and `/ (root)` folder
-4. Your site will be available at `https://[username].github.io/OpenOracle/`
-
-### Option 3: Host on Any Static Host
-
-Upload the `index.html` file to:
-- Netlify
-- Vercel
-- Cloudflare Pages
-- Any web server
+Or download and open `index.html` in any browser - no installation required!
 
 ## Technical Details
 
