@@ -39,7 +39,15 @@ This is a single-file application. No build step required!
 
 ## License
 
-MIT - Use it freely for personal or commercial purposes.
+**Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)**
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+- **Attribution required** - You must give appropriate credit
+- **NonCommercial** - You may not use the material for commercial purposes
+- **No additional restrictions** - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Contributing
 
