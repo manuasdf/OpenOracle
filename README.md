@@ -1,5 +1,10 @@
 # OpenOracle 🔮
 
+
+[Try OpenOracle here 
+![Open OpenOracle](assets/logo.png)](https://manuasdf.github.io/OpenOracle/)
+
+
 A minimal decision-making tool that helps you choose between two options using cryptographically secure randomness.
 
 ## Features
